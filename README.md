@@ -46,7 +46,7 @@ This project was built to:
 - 💪 Fitness Enthusiast  
 - 🌍 Meki, Oromia, Ethiopia
 
-   ## ⭐ Support
+## ⭐ Support
 
 If you like this project, feel free to **star the repository** and share feedback.  
 Contributions and suggestions are always welcome!
